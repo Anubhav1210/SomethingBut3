@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.line { height: 6px; background-color: #000; width: 70px; margin: 8px auto; }
+#app {
+    background-color: red;
+}
+
+#MyCarousel
+{
+    background-color: red;
+}
+#MyCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color: red;
+    font-size: 20px;
+}
+#MyCarousel span{font-size: x-large;}
